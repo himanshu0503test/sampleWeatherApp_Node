@@ -1,0 +1,6 @@
+language: node
+
+node:
+  - 0.10.25
+
+script: true
