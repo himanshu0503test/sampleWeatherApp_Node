@@ -1,6 +1,6 @@
-language: node
+language: node_js
 
-node:
-  - 0.10.25
+node_js:
+  - "0.10"
 
 script: true
