@@ -1,4 +1,4 @@
-FROM shippable/minv2:latest
+FROM ubuntu:14.04
 MAINTAINER Himanshu Aggarwal <hemanshu0503@gmail.com>
 COPY . /src
 RUN cd /src
