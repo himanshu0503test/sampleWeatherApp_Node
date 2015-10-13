@@ -1,4 +1,4 @@
-FROM shipimg/ubuntu1404_nodejs
+FROM shippable/minv2:latest
 MAINTAINER Himanshu Aggarwal <hemanshu0503@gmail.com>
 COPY . /src
 RUN cd /src
